@@ -1,5 +1,7 @@
 *Looking for a shareable component template? Go here --> [sveltejs/component-template](https://github.com/sveltejs/component-template)*
 
+https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/duplicating-a-repository
+
 ---
 
 # svelte app
